@@ -1,7 +1,3 @@
-# Nome: Matheus de Sousa Almeida
-# RA: 1811512907
-
-
 class lutador:
     def __init__ (self,cod,nome,sexo,idade,peso,PO, CP):
         self.cod = cod
